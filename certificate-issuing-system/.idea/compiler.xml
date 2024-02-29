@@ -9,8 +9,5 @@
         <module name="certificate-issuing-system" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="certificate-issuing-system" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
